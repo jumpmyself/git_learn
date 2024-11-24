@@ -8,4 +8,5 @@ func main() {
 	fmt.Println("2222")
 	fmt.Println(333)
 	fmt.Println("xiecuole")
+	fmt.Println("这个是对的")
 }
